@@ -157,4 +157,11 @@ A análise integrada dos dados financeiros, operacionais e de satisfação dos c
 Com essa reorientação, a **Alura Store** estará mais bem posicionada para:  
 - Aumentar sua eficiência operacional.  
 - Fortalecer unidades promissoras.  
-- Assegurar uma expansão sustentável no médio e longo prazo.  
+- Assegurar uma expansão sustentável no médio e longo prazo.
+
+## Certificação 🥇
+Fui reconhecida com a seguinte Badge pelo programa **ONE (Oracle Next Education)**, uma iniciativa da Alura Latam em parceria com a Oracle:
+
+<img width="500" height="500" alt="bagde" src="https://github.com/user-attachments/assets/8ab821d3-ce70-42c1-934a-a81c98cf04d7" />
+
+
